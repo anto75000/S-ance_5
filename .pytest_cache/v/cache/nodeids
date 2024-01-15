@@ -1,0 +1,8 @@
+[
+  "testi/test_jouer.py::test_coup_gagnant_false",
+  "testu/test_changer_joueur.py::test_changer_joueur",
+  "testu/test_gagnant.py::test_gagnant",
+  "testu/test_jeton.py::test_jeton_horizontal",
+  "testu/test_jeton.py::test_jeton_vertical",
+  "testu/test_maj_jeu.py::test_maj_jeu"
+]
